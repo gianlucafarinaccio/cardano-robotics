@@ -1,17 +1,21 @@
 # CardanoRobotics
 
-[ITA]
-
-All'interno di questa repo è contenuta una breve raccolta di materiale inerente al progetto CardanoRobotics.
-
-Fatto con amore e passione, direttamente dall'IIS PIAZZA DELLA RESISTENZA, Monterotondo (RM) <3
-
-Tutto il materiale è stato ideato e realizzato dai membri del team, durante l'a.s. 2018-2019.
-
-Gianluca Farinaccio (Leader)  - Software
-Daniele Galli                 - Elettronica
-Matteo Persichetti            - Meccanica
-Francesco Tocci               - Software
-Simone Vasta                  - Elettronica
+This repository is a brief presentation of CardanoRobotics, RobocupJunior Soccer Open team \
+ from **IIS Piazza della Resistenza institute**, Rome.
 
 
+CardanoRobotics representing Italy at **RobocupJunior2019 (Sydney)** in July 2019 \
+after the winning at RomeCup2019 in April. \
+
+
+#### Team members 
+- Gianluca Farinaccio -- Leader , Software
+- Daniele Galli -- Electronics
+- Matteo Persichetti -- Mechanics
+- Francesco Tocci -- Software
+- Simone Vasta -- Electronics
+
+
+
+> All materials contained in this repo was designed and made by 18 years old student's minds.\
+> Made with love, from Rome to Sydney. <3
