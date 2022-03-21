@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/81380857/159358499-76919eb0-9ad5-4fc4-810f-eee9d8b1a6f3.jpg" width="480" height="320">
 
 This repository is a brief presentation of CardanoRobotics, <br> 
-RobocupJunior Soccer Open team from **IIS Piazza della Resistenza institute**, Rome.
+RobocupJunior Soccer Open team from **ITIS G. Cardano Institute**, Rome.
 
 
 CardanoRobotics represented Italy at **RobocupJunior2019, Sydney** in July 2019 \
