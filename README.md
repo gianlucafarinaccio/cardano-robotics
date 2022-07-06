@@ -1,4 +1,4 @@
-# CardanoRobotics  (work in progress)
+# CardanoRobotics
 
 <img src="https://user-images.githubusercontent.com/81380857/159358499-76919eb0-9ad5-4fc4-810f-eee9d8b1a6f3.jpg" width="480" height="320">
 
